@@ -18,6 +18,7 @@ Two Sum | 2020.07.15 | Pass
 문제 | 날짜 | 비고  
 ----|----|----
 Lesson 1 - Binary Gap | 2020.07.20 | Pass 
+Lesson 1 - Binary Number | 2020.07.21 | Pass
 
 <hr>
 
