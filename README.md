@@ -5,7 +5,8 @@
 
 문제 | 날짜 | 비고  
 ----|----|----
-Two Sum | 2020.07.15 | Pass   
+Two Sum | 2020.07.15 | Pass
+Reverse Integer | 2020.07.27 | `다시 풀어보기`
 
 ### Medium
 
