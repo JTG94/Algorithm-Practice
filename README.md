@@ -25,6 +25,9 @@ Lesson 1 - Binary Number | 2020.07.21 | Pass
 
 ## Programmers :green_book:
 
+문제 | 날짜 | 비고  
+----|----|----
+Level1 - 완주하지 못한 선수 | 2020.09.21 | Pass 
 
 <hr>
 
