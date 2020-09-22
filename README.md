@@ -29,6 +29,7 @@ Lesson 1 - Binary Number | 2020.07.21 | Pass
 ----|----|----
 Level1 - 완주하지 못한 선수 | 2020.09.21 | Pass
 Level1 - 두개 뽑아서 더하기 | 2020.09.21 | Pass 
+Level1 - 모의고사 | 2020.09.22 | Pass
 
 <hr>
 
