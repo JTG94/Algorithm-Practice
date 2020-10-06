@@ -70,6 +70,7 @@ Level1 - 예산 | 2020.10.01 | Pass
 Level1 - 실패율 | 2020.10.03 | Pass
 Level1 - [1차] 다트 게임 | 2020.10.05 | Pass
 Level2 - 주식가격 | 2020.10.06 | Pass
+Level2 - 스킬트리 | 2020.10.06 | Pass
 
 <hr>
 
