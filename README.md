@@ -93,3 +93,6 @@ Level2 - 위장 | 2020.10.20 | Pass
 <hr>
 
 ## Beakjoon :blue_book:
+문제 | 날짜 | 비고  
+----|----|----
+Graph - 1206 DFS와 BFS | 2020.10.20 | Pass
