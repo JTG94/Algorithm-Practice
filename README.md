@@ -24,6 +24,7 @@ Lesson 1 - Binary Gap | 2020.07.20 | Pass
 Lesson 1 - Binary Number | 2020.07.21 | Pass
 Lesson 2 - OddOccurrencesInArray | 2020.12.21 | Pass
 Lesson 3 - FrogJmp | 2020.12.22 | Pass
+Lesson 3 - PermMissingElem | 2021.01.04 | Pass
 
 <hr>
 
