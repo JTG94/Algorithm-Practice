@@ -26,6 +26,7 @@ Lesson 2 - OddOccurrencesInArray | 2020.12.21 | Pass
 Lesson 3 - FrogJmp | 2020.12.22 | Pass
 Lesson 3 - PermMissingElem | 2021.01.04 | Pass
 Lesson 3 - TapeEquilibrium | 2021.01.04 | Pass
+Lesson 4 - FrogRiverOne | 2021.01.05 | Pass
 
 <hr>
 
