@@ -27,6 +27,7 @@ Lesson 3 - FrogJmp | 2020.12.22 | Pass
 Lesson 3 - PermMissingElem | 2021.01.04 | Pass
 Lesson 3 - TapeEquilibrium | 2021.01.04 | Pass
 Lesson 4 - FrogRiverOne | 2021.01.05 | Pass
+Lesson 4 - MaxCounters | 2021.01.05 | `다시 풀어보기`
 
 <hr>
 
