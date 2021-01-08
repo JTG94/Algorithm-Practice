@@ -6,7 +6,7 @@ import java.util.*;
  * Difficulty : Lesson 4 - Counting Elements
  * Detected time complexity : O(N) or O(N * log(N))
  */
-public class TapeEquilibrium {
+public class PermCheck {
     public int solution(int[] A) {
         // write your code in Java SE 11
         int answer = 1;
