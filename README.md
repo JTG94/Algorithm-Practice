@@ -31,6 +31,7 @@ Lesson 4 - MaxCounters | 2021.01.05 | `다시 풀어보기`
 Lesson 4 - MissingInteger | 2021.01.06 | Pass
 Lesson 4 - PermCheck | 2021.01.08 | Pass
 Lesson 5 - CountDiv | 2021.01.08 | Pass
+Lesson 5 - GenomicRangeQuery | 2021.01.10 | `다시 풀어보기`
 <hr>
 
 ## Programmers :green_book:
