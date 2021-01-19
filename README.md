@@ -34,6 +34,7 @@ Lesson 5 - CountDiv | 2021.01.08 | Pass
 Lesson 5 - GenomicRangeQuery | 2021.01.10 | `다시 풀어보기`
 Lesson 5 - MinAvgTwoSlice | 2021.01.10 | Pass
 Lesson 5 - PassingCars | 2021.01.18 | Pass
+Lesson 6 - Distinct | 2021.01.19 | Pass
 <hr>
 
 ## Programmers :green_book:
