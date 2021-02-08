@@ -36,6 +36,7 @@ Lesson 5 - MinAvgTwoSlice | 2021.01.10 | Pass
 Lesson 5 - PassingCars | 2021.01.18 | Pass
 Lesson 6 - Distinct | 2021.01.19 | Pass
 Lesson 6 - MaxProductOfThree | 2021.01.20 | Pass
+Lesson 6 - NumberOfDiscIntersections | 2021.02.08 | `다시 풀어보기`
 <hr>
 
 ## Programmers :green_book:
