@@ -9,6 +9,7 @@ Two Sum | 2020.07.15 | Pass
 Reverse Integer | 2020.07.27 | `다시 풀어보기`
 Remove Element | 2020.10.02 | Pass
 Remove Duplicates from Sorted Array | 2020.10.04 | Pass
+Palindrome Number | 2021.06.14 | Pass
 
 ### Medium
 
