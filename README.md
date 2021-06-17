@@ -89,6 +89,7 @@ Level1 - 실패율 | 2020.10.03 | Pass
 Level1 - [1차] 다트 게임 | 2020.10.05 | Pass
 Level1 - 음양 더하기 | 2021.04.23 | Pass
 Level1 - 약수의 개수와 덧셈 | 2021.06.16 | Pass
+Level1 - 내적 | 2021.06.17 | Pass
 Level2 - 주식가격 | 2020.10.06 | Pass
 Level2 - 스킬트리 | 2020.10.06 | Pass
 Level2 - 올바른 괄호 | 2020.10.09 | Pass
