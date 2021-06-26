@@ -15,6 +15,7 @@ Merge Two Sorted Lists | 2021.06.22 | `다시 풀어보기`
 Maximum Subarray | 2021.06.23 | Pass
 Length of Last Word | 2021.06.24 | Pass
 Plus One | 2021.06.24 | Pass
+Symmetric Tree | 2021.06.26 | Pass
 
 ### Medium
 
