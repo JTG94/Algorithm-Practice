@@ -148,3 +148,4 @@ Graph - 1206 DFS와 BFS | 2020.10.20 | Pass
 Sort - 2750 수 정렬하기 | 2020.12.08 | Pass
 Simulation - 1966 프린터 큐 | 2020.12.13 | Pass
 Sort - 11399 ATM | 2021.06.27 | Pass
+1330 두 수 비교하기 | 2021.06.27 | Pass
