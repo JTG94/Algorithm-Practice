@@ -24,6 +24,7 @@ Add Binary | 2021.06.26 | Pass
 Climbing Stairs | 2021.06.26 | Pass
 Same Tree | 2021.06.26 | `다시 풀어보기`
 Best Time to Buy and Sell Stock | 2021.06.26 | Pass
+Valid Palindrome | 20201.06.26 | Pass
 
 ### Medium
 
