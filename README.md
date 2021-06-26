@@ -21,6 +21,7 @@ Convert Sorted Array to Binary Search Tree | 2021.06.26 | `다시 풀어보기`
 Binary Tree Inorder Traversal | 2021.06.26 | `다시 풀어보기`
 Sqrt(x) | 2021.06.26 | Pass
 Add Binary | 2021.06.26 | Pass
+Climbing Stairs | 2021.06.26 | Pass
 
 ### Medium
 
