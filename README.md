@@ -19,6 +19,7 @@ Symmetric Tree | 2021.06.26 | Pass
 Maximum Depth of Binary Tree | 2021.06.26 | Pass
 Convert Sorted Array to Binary Search Tree | 2021.06.26 | `다시 풀어보기`
 Binary Tree Inorder Traversal | 2021.06.26 | `다시 풀어보기`
+Sqrt(x) | 2021.06.26 | Pass
 
 ### Medium
 
