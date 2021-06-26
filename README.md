@@ -16,6 +16,7 @@ Maximum Subarray | 2021.06.23 | Pass
 Length of Last Word | 2021.06.24 | Pass
 Plus One | 2021.06.24 | Pass
 Symmetric Tree | 2021.06.26 | Pass
+Maximum Depth of Binary Tree | 2021.06.26 | Pass
 
 ### Medium
 
