@@ -17,6 +17,7 @@ Length of Last Word | 2021.06.24 | Pass
 Plus One | 2021.06.24 | Pass
 Symmetric Tree | 2021.06.26 | Pass
 Maximum Depth of Binary Tree | 2021.06.26 | Pass
+Convert Sorted Array to Binary Search Tree | 2021.06.26 | `다시 풀어보기`
 
 ### Medium
 
