@@ -57,6 +57,7 @@ Lesson 6 - MaxProductOfThree | 2021.01.20 | Pass
 Lesson 6 - NumberOfDiscIntersections | 2021.02.08 | `다시 풀어보기`
 Lesson 6 - Triangle | 2021.02.08 | Pass
 Lesson 7 - Brackets | 2021.02.09 | Pass
+Lesson 10 - CountFactors | 2021.07.17 | Pass
 <hr>
 
 ## Programmers :green_book:
