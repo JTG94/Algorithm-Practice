@@ -141,6 +141,7 @@ Level2 - JadenCase 문자열 만들기 | 2021.06.21 | Pass
 Level2 - 이진 변환 반복하기 | 2021.06.22 | Pass
 Level1 - 소수 만들기 | 2021.07.31 | Pass
 Level1 - 로또의 최고 순위와 최저 순위 | 2021.07.31 | Pass
+Level1 - 포켓몬 | 2021.07.31 | Pass
 
 <hr>
 
